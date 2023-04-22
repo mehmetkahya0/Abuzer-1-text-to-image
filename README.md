@@ -1,4 +1,4 @@
-# Abuzer-1
+# Abuzer-1 (text-to-image ai)
 
 This is a simple Tkinter interface that uses the CraiyonAI API to generate an image based on a word entered by the user.
 
@@ -10,13 +10,13 @@ Pillow module
 Craiyon module
 To install the above requirements, enter the following commands in your terminal:
 
-## Copy code
+## Usage
 ```
 pip install tkinter
 pip install pillow
 pip install craiyon
 ```
-# #How to Use
+## How to Use
 
 Run the application by running the Abuzer-1.py file.
 Enter a word in the text box labeled "Enter a word."
