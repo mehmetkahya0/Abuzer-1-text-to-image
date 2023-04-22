@@ -1,6 +1,7 @@
 # Abuzer-1 (text-to-image ai)
 
 This is a simple Tkinter interface that uses the CraiyonAI API to generate an image based on a word entered by the user.
+CraiyonAI = https://www.craiyon.com
 
 ## Requirements
 
