@@ -3,6 +3,11 @@
 This is a simple Tkinter interface that uses the CraiyonAI API to generate an image based on a word entered by the user.
 CraiyonAI = https://www.craiyon.com
 
+
+## Screenshot
+<img width="291" alt="Ekran Resmi 2023-04-22 16 33 31" src="https://user-images.githubusercontent.com/84154488/233788139-7b223656-c707-4edd-8dc3-379a3a59783b.png">
+
+
 ## Requirements
 
 Python 3.6 or higher
