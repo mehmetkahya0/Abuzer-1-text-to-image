@@ -29,6 +29,10 @@ class Abuzer1:
 
         self.api = Craiyon()
 
+        # Create "images" folder if it doesn't exist
+        if not os.path.exists("images"):
+            os.makedirs("images")
+
     def generate(self):
         input_word = self.input.get().strip()
         if not input_word:
