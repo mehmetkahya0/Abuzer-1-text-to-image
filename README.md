@@ -33,3 +33,4 @@ You can clear the text box by clicking the "Clear" button.
 ## License
 
 This application is licensed under the MIT License. For details, see the LICENSE file.
+![Badge](https://visitor-counter-badge.vercel.app/api/mehmetkahya0/visitor-counter-badge/)
