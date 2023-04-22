@@ -11,11 +11,11 @@ Craiyon module
 To install the above requirements, enter the following commands in your terminal:
 
 ## Copy code
-'''
+```
 pip install tkinter
 pip install pillow
 pip install craiyon
-'''
+```
 # #How to Use
 
 Run the application by running the Abuzer-1.py file.
